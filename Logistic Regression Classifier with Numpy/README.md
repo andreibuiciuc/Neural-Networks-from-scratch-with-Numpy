@@ -7,7 +7,8 @@ It is presented in the context of a binary classification problem and the purpos
   <img src="https://user-images.githubusercontent.com/88616177/133781245-446ab781-c3cc-4211-b583-a3dc2c4cb68b.png">
 </p>
 
-The accuracy of the model: (around) 99% on training data and 66 on test data (it clearly overfits the data).
+The accuracy of the model: (around) 99% on training data and 66% on test data (it clearly overfits the data).
+
 Important to note is the fact that no optimization techniques were used in this
 problem.
 
