@@ -7,6 +7,10 @@ It is presented in the context of a binary classification problem and the purpos
   <img src="https://user-images.githubusercontent.com/88616177/133781245-446ab781-c3cc-4211-b583-a3dc2c4cb68b.png">
 </p>
 
+The accuracy of the model: (around) 99% on training data and 66 on test data (it clearly overfits the data).
+Important to note is the fact that no optimization techniques were used in this
+problem.
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88616177/133782304-a136b67c-7be3-4ced-8de5-5a9c3219b0cf.png">
 </p>
