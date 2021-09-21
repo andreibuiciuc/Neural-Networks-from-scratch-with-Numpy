@@ -2,7 +2,7 @@
 
 In this notebook, a shallow neural network (with only one hidden layer) is built from scratch using numpy. The goal for this problem is to correctly classify points in a planar setting.
 
-<p align="center">
+<p align="left">
   <img src="https://user-images.githubusercontent.com/88616177/134171168-571f5a15-b6a1-41fd-9032-b82bff29d2b4.png">
 </p>
 
